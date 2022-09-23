@@ -8,6 +8,6 @@ This repository contains:
 - The ROS package written in Python in order to control the Drone using ROS.
 - Links to most useful sites that will definitely help you complete and continue this project.
 
-Any question please send me an email on: nabil.haidar1998@gmail.com
-OR
-LinkedIn: 
+Any question please send me an email on: nabil.haidar1998@gmail.com 
+OR 
+LinkedIn: https://www.linkedin.com/in/nabil-haidar-mech/

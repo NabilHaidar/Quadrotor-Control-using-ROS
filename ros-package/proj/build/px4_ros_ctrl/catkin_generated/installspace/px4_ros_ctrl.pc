@@ -1,0 +1,8 @@
+prefix=/home/nabil/proj/install
+
+Name: px4_ros_ctrl
+Description: Description of px4_ros_ctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

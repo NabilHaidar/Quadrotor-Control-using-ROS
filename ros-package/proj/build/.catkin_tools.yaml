@@ -1,0 +1,6 @@
+devel_space: /home/nabil/proj/devel
+install: false
+install_space: /home/nabil/proj/install
+profile: default
+source_space: /home/nabil/proj/src
+workspace: /home/nabil/proj

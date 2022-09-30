@@ -1,7 +1,7 @@
 # Quadrotor-Control-using-ROS
 
 This project is my final year project in Mechanical Engineering: Mechatronics studying at IUT.
-The langauge of the thesis is Persian but an English version will be available soon (Insha'llah :) ). Note that you can use google translate tools to translate the Persian thesis into English and that will work fine.
+The langauge of the thesis is Persian but an English version will be available soon (Insha'llah :) ). Note that you can use google translate tools to translate the Persian thesis into English and that will work fine. A google translated English version of the thesis is added.
 
 This repository contains:
 - A detailed thesis that illustrates all followed steps to control and navigate a quadrotor using Robot Operating System aka ROS.
